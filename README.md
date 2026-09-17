@@ -266,13 +266,13 @@ I'm open to opportunities involving:
 # 📫 Let's Connect
 
 <p align="center">
-  <a href="https://classic-resume.vercel.app/">
+  <a href="https://asad-portfolio-beta.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/asad-akbar-1890892b2/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/cryptonfuture">
+  <a href="https://github.com/MuhammadAsadAliAkbar">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
