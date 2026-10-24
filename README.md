@@ -2,7 +2,7 @@
 
 ### 🚀 Senior Full Stack Developer | MERN & MEAN Stack
 
-I'm a **Senior Full Stack Developer with 6+ years of experience** focused on building scalable, secure, and high-performance web applications, SaaS platforms, enterprise dashboards, APIs, real-time systems, e-commerce integrations, and AI-powered solutions.
+I'm a **Senior Full Stack Developer with 7+ years of experience** focused on building scalable, secure, and high-performance web applications, SaaS platforms, enterprise dashboards, APIs, real-time systems, e-commerce integrations, and AI-powered solutions.
 
 I specialize in **MERN & MEAN stack development** and enjoy turning complex business requirements into clean, reliable, and production-ready software.
 
